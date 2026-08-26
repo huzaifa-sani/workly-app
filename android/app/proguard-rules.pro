@@ -1,0 +1,4 @@
+-keep class io.flutter.** { *; }
+-keep class com.dexterous.** { *; }
+-keep class okhttp3.** { *; }
+-keep class retrofit2.** { *; }
